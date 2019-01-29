@@ -1,0 +1,2 @@
+#define MAX_ACCEPTS_PER_CALL 1000
+
